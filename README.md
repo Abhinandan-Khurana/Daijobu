@@ -30,8 +30,10 @@ o888bood8P'   `Y888""8o o888o     888 `Y8bod8P'  `Y8bod8P'  `V88V"V8P' Y8P
 ### In today's world, there is a severe shortage of doctors, particularly in India. Many people are suffering as a result of not receiving proper medical care. In addition, many cases arise that lead to death as a result of a lack of timely medical checkup.
 ### To deal with all of these issues, this app was created.
 
-## Creator :
-## Abhinandan Khurana, Vidushi Katare, Pranjal Bhalla 
+## Creators :
+-Abhinandan Khurana 
+-Vidushi Katare 
+-Pranjal Bhalla 
 
 ## How to use?
 
