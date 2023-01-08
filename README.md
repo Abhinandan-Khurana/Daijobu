@@ -35,7 +35,9 @@ o888bood8P'   `Y888""8o o888o     888 `Y8bod8P'  `Y8bod8P'  `V88V"V8P' Y8P
 
 ## How to use?
 
-### 1. clone the github repository - 
+### 1. Clone the GitHub Repository - 
 <code> git clone https://github.com/Abhinandan-Khurana/Daijobu.git </code>
+<br>
 <code> 2. pip install -r requirements.txt </code>
+<br>
 <code> 3. python3 app.py </code>
