@@ -31,9 +31,9 @@ o888bood8P'   `Y888""8o o888o     888 `Y8bod8P'  `Y8bod8P'  `V88V"V8P' Y8P
 ### To deal with all of these issues, this app was created.
 
 ## Creators :
--Abhinandan Khurana 
--Vidushi Katare 
--Pranjal Bhalla 
+- Abhinandan Khurana 
+- Vidushi Katare 
+- Pranjal Bhalla 
 
 ## How to use?
 
