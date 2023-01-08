@@ -41,3 +41,8 @@ o888bood8P'   `Y888""8o o888o     888 `Y8bod8P'  `Y8bod8P'  `V88V"V8P' Y8P
 <code> 2. pip install -r requirements.txt </code>
 <br>
 <code> 3. python3 app.py </code>
+
+## MOTE: 
+### This application was created in just 6 hours, and we intend to expand on it in the future.
+### Many extra files may be present because those are features that we are either working on for the next version or that are not working properly, so we removed the integration with the app.
+### However, the app will function normally as a Diabetes prediction app.
